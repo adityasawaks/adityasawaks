@@ -25,10 +25,16 @@ Implemented a next-word predictor using Long Short-Term Memory (LSTM) neural net
 
 Created an artificial neural network (ANN) model to predict customer churn, aiding businesses in retaining valuable customers.
 
+### Graduate Admission Prediction using ANN
+[GitHub Repository](https://github.com/adityasawaks/Graduate-Admission-Prediction-using-ANN)
+
+Developed an artificial neural network (ANN) model to predict graduate admission probabilities based on various factors, assisting prospective students in their application process.
+
 ### Linear Regression from Scratch
 [GitHub Repository](https://github.com/adityasawaks/Linear-Regression-from-scratch)
 
 Implemented linear regression algorithm from scratch using Python, demonstrating understanding of fundamental machine learning concepts.
+
 
 
 ## Python Libraries
