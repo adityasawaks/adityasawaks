@@ -3,6 +3,34 @@
 ## About Me
 Hey there! I'm Aditya Saw, a passionate Python developer with expertise in various libraries and tools. This repository is my playground where I explore and showcase my projects, experiments, and learnings in the world of Python programming and data science.
 
+## Projects
+
+### Free AI Detection
+[AI Content Detector](https://theaicontentdetector.streamlit.app/)
+
+To identify AI-generated content, such as ChatGPT, GPT-4, and Google Gemini, copy and paste your English text below.
+
+### Email Spam Classifier
+[GitHub Repository](https://github.com/adityasawaks/Email-Spam-Classifier)
+
+Developed a classifier using machine learning techniques to detect spam emails, helping users filter unwanted messages.
+
+### Next Word Predictor Using LSTM
+[GitHub Repository](https://github.com/adityasawaks/lstm-project)
+
+Implemented a next-word predictor using Long Short-Term Memory (LSTM) neural networks, providing suggestions based on preceding words in a sentence.
+
+### Customer Churn Prediction using ANN
+[GitHub Repository](https://github.com/adityasawaks/Artificial-neural-network/blob/main/Customer_Churn_Prediction_using_ANN.ipynb)
+
+Created an artificial neural network (ANN) model to predict customer churn, aiding businesses in retaining valuable customers.
+
+### Linear Regression from Scratch
+[GitHub Repository](https://github.com/adityasawaks/Linear-Regression-from-scratch)
+
+Implemented linear regression algorithm from scratch using Python, demonstrating understanding of fundamental machine learning concepts.
+
+
 ## Python Libraries
 - **Django**: A high-level Python web framework for rapid development and clean design.
 - **NumPy**: Fundamental package for scientific computing with Python.
