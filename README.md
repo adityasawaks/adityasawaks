@@ -8,6 +8,7 @@ Hey there! I'm Aditya Saw, a passionate Python developer with expertise in vario
 ### Free AI Detection
 [AI Content Detector](https://theaicontentdetector.streamlit.app/)
 
+https://theaicontentdetector.streamlit.app
 To identify AI-generated content, such as ChatGPT, GPT-4, and Google Gemini, copy and paste your English text below.
 
 ### Email Spam Classifier
