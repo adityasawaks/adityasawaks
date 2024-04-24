@@ -3,7 +3,7 @@
 ## About Me
 Hey there! I'm Aditya Saw, a passionate Python developer with expertise in various libraries and tools. This repository is my playground where I explore and showcase my projects, experiments, and learnings in the world of Python programming and data science.
 
-## Projects
+## Machine Learning and Deep Learning Projects in Python 
 
 ### Free AI Detection
 [AI Content Detector](https://theaicontentdetector.streamlit.app/)
@@ -35,6 +35,20 @@ Developed an artificial neural network (ANN) model to predict graduate admission
 [GitHub Repository](https://github.com/adityasawaks/Linear-Regression-from-scratch)
 
 Implemented linear regression algorithm from scratch using Python, demonstrating understanding of fundamental machine learning concepts.
+
+## Power BI projects 
+
+### Sales Analysis using PowerBI
+[GitHub Repository](https://github.com/adityasawaks/POWERBIPROJECT1)
+
+### Analysis using PowerBI
+[GitHub Repository](https://github.com/adityasawaks/powerbiproject2)
+
+## Web Scraping Project
+
+### Selenium web scraping 
+[GitHub Repository](https://github.com/adityasawaks/selenium_webscrap)
+
 
 
 
