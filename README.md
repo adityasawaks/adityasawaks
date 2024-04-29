@@ -13,6 +13,10 @@ To identify AI-generated content, such as ChatGPT, GPT-4, and Google Gemini, cop
 
 ### High-Accuracy Brain Tumor Classification from MRI Images using CNN-Based Deep Learning
 [GitHub Repository](https://github.com/adityasawaks/High-Accuracy-Brain-Tumor-Classification-from-MRI-Images-using-CNN-Based-Deep-Learning)
+Utilizing deep learning techniques, this project aims to classify brain tumors from MRI images for early detection and treatment planning.
+The dataset comprises 7023 MRI images categorized into glioma, meningioma, no tumor, and pituitary classes.
+A Convolutional Neural Network (CNN)-based model achieves high accuracy in classification, with precision, recall, and F1-score exceeding 0.96 for all classes.
+The model architecture includes convolutional and pooling layers followed by dense layers, totaling over 2 million trainable parameters, facilitating comprehensive tumor detection and location identification.
 
 ### Email Spam Classifier
 [GitHub Repository](https://github.com/adityasawaks/Email-Spam-Classifier)
