@@ -7,6 +7,10 @@ Hey there! I'm Aditya Saw, a passionate Python developer with expertise in vario
 
 ### Free AI Detection
 [AI Content Detector](https://theaicontentdetector.streamlit.app/)
+Implemented TF-IDF Vectorizer & ExtraTreesClassifier for text classification.
+Achieved an accuracy score of 99.18% on a test set of 2800 data points.
+Confusion matrix showed 4 misclassifications for non-AI texts and 19 misclassifications for AI texts.
+Precision score of approximately 99.71% indicates high accuracy in AI text detection
 
 https://theaicontentdetector.streamlit.app
 To identify AI-generated content, such as ChatGPT, GPT-4, and Google Gemini, copy and paste your English text below.
