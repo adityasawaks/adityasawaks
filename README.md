@@ -11,6 +11,9 @@ Hey there! I'm Aditya Saw, a passionate Python developer with expertise in vario
 https://theaicontentdetector.streamlit.app
 To identify AI-generated content, such as ChatGPT, GPT-4, and Google Gemini, copy and paste your English text below.
 
+### High-Accuracy Brain Tumor Classification from MRI Images using CNN-Based Deep Learning
+[GitHub Repository](https://github.com/adityasawaks/High-Accuracy-Brain-Tumor-Classification-from-MRI-Images-using-CNN-Based-Deep-Learning)
+
 ### Email Spam Classifier
 [GitHub Repository](https://github.com/adityasawaks/Email-Spam-Classifier)
 
